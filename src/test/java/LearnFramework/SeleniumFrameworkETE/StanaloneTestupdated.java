@@ -132,3 +132,5 @@ FinalPage finalp=cartP.checkOut();
 
 //|Username          |  |Pwd      |   | Product   |
 //|Rinki456@gmail.com|  |Rinki@123|   |ZARA COAT 3|
+
+//Testing ci/cd pipleline
