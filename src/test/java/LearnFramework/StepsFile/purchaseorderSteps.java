@@ -59,6 +59,6 @@ public class purchaseorderSteps extends baseTest{
 		 String ConfirmationMsgAct=finalp.confirmation();
 		   Assert.assertTrue(ConfirmationMsgAct.equalsIgnoreCase(string));
 	}
-	//Im adding purchase
+	//Im adding purchase newly
 }
 
