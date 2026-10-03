@@ -69,5 +69,5 @@ Assert.assertTrue(ConfirmationMsg.equalsIgnoreCase("Thankyou for the order."));
 		
 
 	}
-
+//making new changes
 }
