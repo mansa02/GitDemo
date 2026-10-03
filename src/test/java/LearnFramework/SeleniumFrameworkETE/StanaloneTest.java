@@ -67,7 +67,7 @@ Assert.assertTrue(ConfirmationMsg.equalsIgnoreCase("Thankyou for the order."));
 //		
 //		Thread.sleep(5000);
 		
-
+//@testing new scenarion@
 	}
-//making new changes
+
 }
